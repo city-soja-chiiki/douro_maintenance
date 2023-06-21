@@ -12,5 +12,10 @@
 　維持管理データベース本体  
 　　dbname='lizmap'  
 　　table="public"."road_maintenance"  
-　　table="public"."道路パトロール"  
+　　table="public"."道路パトロール"
+
+1. システム環境  
+現在対応しているQGISバージョンは3.22  
+3.28は未対応  
+
 
