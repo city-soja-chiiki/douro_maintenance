@@ -15,14 +15,6 @@
 　　table="public"."road_maintenance"  
 　　table="public"."道路パトロール"
 
-1. システム環境  
-現在対応しているQGISバージョンは3.22  
-3.28は未対応  (2023-06-26現在)  
-　\\soja\総社市\QGIS\yr-qgis-portable-launcher  
-　旧バージョンのランチャーを利用して起動  
-　今回は，　QGIS3.22.16.bat　を利用  
-　![Alt text](image/QGIS%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BCBAT.png)  
-
 ### 作業手順概要
 1. マニュアル
 　　PostGISのアカウント等は  
